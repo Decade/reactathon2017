@@ -130,8 +130,8 @@ STYLE GUIDE:
 
 ***
 
-# USafe?
-### Do you live alone? Or do you often say "Text me when you are home"? Then USafe? is for you.
-* **Teammates**: Queenie Ho (@qho), Chris Rollins (@chris.rollins)
-* **Seeking Teammates**: Yes
-* [GitHub URL](https://github.com/qho-queenie/secret_app_react)
+# Team GHKA
+### Dynamic discounts for restaurants depending on occupancy.
+* **Teammates**: Geoff (@geoff), Hilary (@hilz), Karine (@trekare), Abdul (@afr114), Theo (@tdr)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/afr114/reactathon2017)
